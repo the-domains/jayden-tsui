@@ -1,28 +1,40 @@
-name: Jayden Tsui
-favicon: null
-layout_spectrum: 0.04405245301313698
-typography_spectrum: 0.010626881383359432
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.04405245301313698
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.2475871874485165
+  brandStrength: 0.07368939951993525
+  rhythmicContrast: 0.04062226391397417
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.07368939951993525
   lightness: 0.4433548536617309
-  saturation: 0.2475871874485165
-  rhythmicContrast: 0.040622263913974166
 purpose: []
+favicon: null
+name: Jayden Tsui
+typography_spectrum: 0.01062688138335943
